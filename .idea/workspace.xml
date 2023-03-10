@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/venv/lib/python3.10/site-packages/django/core/handlers/exception.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -186,6 +189,7 @@
       <workItem from="1677576550551" duration="5152000" />
       <workItem from="1677647896271" duration="5000" />
       <workItem from="1677666848282" duration="42000" />
+      <workItem from="1677829461716" duration="11000" />
     </task>
     <servers />
   </component>
