@@ -4,7 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcceef64-20f2-47d1-aad8-a5b47aa14c6a" name="Changes" comment="" />
+    <list default="true" id="fcceef64-20f2-47d1-aad8-a5b47aa14c6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-5.0.2-dist/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/midmorningDjangoExam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/midmorningDjangoExam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +73,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ValerieMbaka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ValerieMbaka/Famms-Fashion-Website.git&quot;,
+    &quot;accountId&quot;: &quot;ab60bb61-c83f-4aeb-a502-a42505a6fc14&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/venv/lib/python3.10/site-packages/django/core/handlers/exception.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -31,27 +94,34 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2M5Nvok8uSTYb7fpUpPfxgAqC1S" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/PycharmProjects/morningPyDb&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/Famms-Fashion-Website/static",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
@@ -65,6 +135,7 @@
   <component name="RunManager" selected="Python.main">
     <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="midmorningDjangoExam" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -87,14 +158,16 @@
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="midmorningDjangoExam" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (MyPortfolio)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -109,6 +182,7 @@
     </configuration>
     <configuration name="users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="midmorningDjangoExam" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -131,6 +205,7 @@
     </configuration>
     <configuration name="midmorningDjangoTemplates" type="Python.DjangoServer" factoryName="Django server">
       <module name="midmorningDjangoExam" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -153,6 +228,12 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django Server.midmorningDjangoTemplates" />
+      <item itemvalue="Python.database" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.users" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
@@ -160,6 +241,14 @@
         <item itemvalue="Python.database" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -190,6 +279,12 @@
       <workItem from="1677647896271" duration="5000" />
       <workItem from="1677666848282" duration="42000" />
       <workItem from="1677829461716" duration="11000" />
+      <workItem from="1700343609421" duration="54000" />
+      <workItem from="1701097563873" duration="292000" />
+      <workItem from="1707847692382" duration="86000" />
+      <workItem from="1717332706264" duration="805000" />
+      <workItem from="1726051512062" duration="39000" />
+      <workItem from="1726134033055" duration="679000" />
     </task>
     <servers />
   </component>
